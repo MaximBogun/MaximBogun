@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Max Bohunenko</h1>
 <h3 align="center">An experienced software engineer</h3>
 
@@ -34,6 +33,4 @@
 ![Prometheus](https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus)
 ![Grafana](https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange)
 
-![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white)
-![TestCafe](https://img.shields.io/badge/TestCafe-1a202e?style=for-the-badge&logo=testcafe&logoColor=white)
-![k6](https://img.shields.io/badge/k6-7d64ff?style=for-the-badge&logo=k6&logoColor=white)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MaximBogun&label=Profile%20views&color=0e75b6&style=flat" alt="MaximBogun" /> </p> 
