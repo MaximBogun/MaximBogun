@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Max Bohunenko</h1>
 <h3 align="center">An experienced software engineer</h3>
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on AI car adviser 
 
 - 🌱 I’m currently learning **OpenAI, Blockchain**
 
