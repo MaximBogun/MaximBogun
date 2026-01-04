@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Max Bohunenko</h1>
+<h1 align="center">Hi 👋, I'm Max</h1>
 <h3 align="center">An experienced software engineer</h3>
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/max-bohunenko-2505aa143/](https://www.linkedin.com/in/max-b-2505aa143/)
